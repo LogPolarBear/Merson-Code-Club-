@@ -1,0 +1,13 @@
+name: LavaVision
+
+author: AndyHunt, Learn to Program with Minecraft Plugins
+website: http://pragprog.com/book/ahmine
+
+main: lavavision.LavaVision
+
+commands:
+    lavavision:
+        description: Explode your target into a ball of flaming lava
+
+version: 0.1
+

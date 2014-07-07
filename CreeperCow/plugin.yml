@@ -1,0 +1,16 @@
+name: CreeperCow
+
+author: AndyHunt, Learn to Program with Minecraft Plugins
+website: http://pragprog.com/book/ahmine
+
+main: creepercow.CreeperCow
+
+commands:
+    testSpawnCows:
+        description: Test cow spawning
+        usage: testSpawnCows <size of square> <number to spawn>
+    testJump:
+        description: Test cow jumping
+
+version: 0.1
+

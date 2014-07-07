@@ -1,0 +1,13 @@
+name: CowBomb
+
+author: AndyHunt, Learn to Program with Minecraft Plugins
+website: http://pragprog.com/book/ahmine
+
+main: squidbomb.SquidBomb
+
+commands:
+    squidbomb:
+        description: Drop a fixed number of squid on your head.
+
+
+version: 0.1

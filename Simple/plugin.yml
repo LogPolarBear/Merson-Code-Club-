@@ -1,0 +1,12 @@
+name: Simple
+
+author: AndyHunt, Learn to Program with Minecraft Plugins
+website: http://pragprog.com/book/ahmine
+
+main: simple.Simple
+
+commands:
+    simple:
+        description: Simple first plugin
+
+version: 0.1

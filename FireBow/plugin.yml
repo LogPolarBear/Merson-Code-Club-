@@ -1,0 +1,14 @@
+name: FireBow
+
+author: AndyHunt, Learn to Program with Minecraft Plugins
+website: http://pragprog.com/book/ahmine
+
+main: firebow.FireBow
+
+commands:
+    firebow:
+        description: Enable firebow
+    nofirebow:
+        description: Disable firebow
+
+version: 0.1

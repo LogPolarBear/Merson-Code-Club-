@@ -1,0 +1,13 @@
+name: BackCmdListener
+
+author: AndyHunt, Learn to Program with Minecraft Plugins
+website: http://pragprog.com/book/ahmine
+
+main: backcmdlistener.BackCmdListener
+
+commands:
+    backcmdlistener:
+        description: Version of BackCmd with event listener
+
+version: 0.1
+

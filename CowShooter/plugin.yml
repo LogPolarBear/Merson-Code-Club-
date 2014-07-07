@@ -1,0 +1,10 @@
+name: CowShooter
+
+author: AndyHunt, Learn to Program with Minecraft Plugins
+website: http://pragprog.com/book/ahmine
+
+main: cowshooter.CowShooter
+
+commands:
+
+version: 0.1

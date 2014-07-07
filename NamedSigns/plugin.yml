@@ -1,0 +1,13 @@
+name: NamedSigns
+
+author: AndyHunt, Learn to Program with Minecraft Plugins
+website: http://pragprog.com/book/ahmine
+
+main: namedsigns.NamedSigns
+
+commands:
+    signs:
+        description: Make a named sign post
+
+version: 0.1
+

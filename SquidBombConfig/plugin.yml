@@ -1,0 +1,14 @@
+name: SquidBombConfig
+
+author: AndyHunt, Learn to Program with Minecraft Plugins
+website: http://pragprog.com/book/ahmine
+
+main: squidbombconfig.SquidBombConfig
+
+commands:
+    squidbomb:
+        description: Drop a configurable number of squid on your head.
+    squidpurge:
+        description: The great Squid Purge. Stop the squid menace.
+
+version: 0.1

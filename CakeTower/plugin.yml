@@ -1,0 +1,13 @@
+name: CakeTower
+
+author: AndyHunt, Learn to Program with Minecraft Plugins
+website: http://pragprog.com/book/ahmine
+
+main: caketower.CakeTower
+
+commands:
+    caketower:
+        description: Build a cake tower
+
+version: 0.1
+

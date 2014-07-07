@@ -1,0 +1,13 @@
+name: ArrayOfBlocks
+
+author: AndyHunt, Learn to Program with Minecraft Plugins
+website: http://pragprog.com/book/ahmine
+
+main: arrayofblocks.ArrayOfBlocks
+
+commands:
+    arrayofblocks:
+        description: Create an array blocks
+
+version: 0.1
+

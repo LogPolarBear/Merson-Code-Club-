@@ -1,0 +1,14 @@
+name: NameCow
+
+author: AndyHunt, Learn to Program with Minecraft Plugins
+website: http://pragprog.com/book/ahmine
+
+main: namecow.NameCow
+
+commands:
+    namecow:
+        description: Spawn a cow with the given name
+        usage: namecow aNameForYourCow
+
+version: 0.1
+

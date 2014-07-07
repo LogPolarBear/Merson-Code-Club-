@@ -1,0 +1,14 @@
+name: LocationSnapshot
+
+author: AndyHunt, Learn to Program with Minecraft Plugins
+website: http://pragprog.com/book/ahmine
+
+main: locationsnapshot.LocationSnapshot
+
+commands:
+    savelocations:
+        description: Save all player locations to disk
+    loadlocations:
+        description: Load saved locations and teleport everyone back
+
+version: 0.1

@@ -1,0 +1,12 @@
+name: PlayerStuff
+
+author: AndyHunt, Learn to Program with Minecraft Plugins
+website: http://pragprog.com/book/ahmine
+
+main: playerstuff.PlayerStuff
+
+commands:
+    whoami:
+        description: Print some player data and rain.
+
+version: 0.1

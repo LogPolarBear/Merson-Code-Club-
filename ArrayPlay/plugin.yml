@@ -1,0 +1,13 @@
+name: ArrayPlay
+
+author: AndyHunt, Learn to Program with Minecraft Plugins
+website: http://pragprog.com/book/ahmine
+
+main: arrayplay.ArrayPlay
+
+commands:
+    arrayplay:
+        description: Demo of arrays
+
+version: 0.1
+

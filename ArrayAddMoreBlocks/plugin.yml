@@ -1,0 +1,15 @@
+name: ArrayAddMoreBlocks
+
+author: AndyHunt, Learn to Program with Minecraft Plugins
+website: http://pragprog.com/book/ahmine
+
+main: arrayaddmoreblocks.ArrayAddMoreBlocks
+
+commands:
+    arrayaddmoreblocks:
+        description: Build a block tower, increasing each time you call it
+    arrayclearblocks:
+        description: Clear current tower
+
+version: 0.1
+

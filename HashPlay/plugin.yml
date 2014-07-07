@@ -1,0 +1,13 @@
+name: HashPlay
+
+author: AndyHunt, Learn to Program with Minecraft Plugins
+website: http://pragprog.com/book/ahmine
+
+main: hashplay.HashPlay
+
+commands:
+    hashplay:
+        description: Hash demo
+
+version: 0.1
+

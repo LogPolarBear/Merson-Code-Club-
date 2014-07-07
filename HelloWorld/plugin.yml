@@ -1,0 +1,12 @@
+name: HelloWorld
+
+author: AndyHunt, Learn to Program with Minecraft Plugins
+website: http://pragprog.com/book/ahmine
+main: helloworld.HelloWorld
+
+commands:
+    hello:
+        description: Say Hello to everyone!
+        usage: /hello [optional message]
+
+version: 0.1

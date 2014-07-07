@@ -1,0 +1,12 @@
+name: BackCmd
+
+author: AndyHunt, Learn to Program with Minecraft Plugins
+website: http://pragprog.com/book/ahmine
+
+main: backcmd.BackCmd
+
+commands:
+    back:
+        description: Go back to previous places that you teleported to.
+
+version: 0.1
