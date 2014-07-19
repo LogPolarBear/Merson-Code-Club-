@@ -29,7 +29,7 @@ public class Simple extends JavaPlugin {
   }
   public boolean onCommand(CommandSender sender, Command command, 
                            String commandLabel, String[] args) {     
-	getServer().broadcastMessage("!!!");
+				getServer().broadcastMessage("!!!");
     if (commandLabel.equalsIgnoreCase("simple")) {
       if (sender instanceof Player) { 
         Player me = (Player)sender;
